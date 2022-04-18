@@ -10,11 +10,11 @@ Welcome to Los's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-      规则书 <RulesBook.md>
-      资源手册 <resource.md>  
-		技艺书册 <skills.md>
-		武具书册 <Equipment.md>    
-		更新日志 <UpdateLog.md> 
+规则书 <RulesBook.md>
+资源手册 <resource.md>  
+技艺书册 <skills.md>
+武具书册 <Equipment.md>    
+更新日志 <UpdateLog.md> 
 
 Indices and tables
 ==================
