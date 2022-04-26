@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Los'
-copyright = '2022, D0'
-author = '库库露'
+copyright = '2022, 魔女图书馆制作委员会'
+author = '魔女图书馆制作委员会'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
