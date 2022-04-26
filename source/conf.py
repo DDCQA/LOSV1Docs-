@@ -19,7 +19,7 @@
 
 project = 'Los'
 copyright = '2022, D0'
-author = 'D0'
+author = '库库露'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
